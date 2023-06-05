@@ -7,7 +7,7 @@
 💡 Constantly embracing new technologies and frameworks, I'm on a perpetual journey of growth and learning. From frontend to backend, I'm well-versed in various stacks and love to experiment with emerging paradigms.
 
 ⚡️ **Skillset:**
-- Languages: JavaScript, Python, Java, C++
+- Languages: JavaScript, PHP
 - Frontend: HTML, CSS, TailWind CSS, Bootstrap, React, Angular, Vue.js
 - Backend: Node.js, Express
 - Databases: MySQL, MongoDB, SQLite
