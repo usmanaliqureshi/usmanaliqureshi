@@ -16,12 +16,11 @@
 
 🌐 Passionate about open source, I actively contribute to various projects and believe in the power of community-driven development. Sharing knowledge is key, and I enjoy writing technical articles and speaking at tech conferences.
 
-<!--
 🏆 **Achievements:**
 1. 🥇 Developed several high-performance web applications and projects.
 2. 🥈 Recognized as Top-Rated on Upwork with over 1900+ hours of work in several international successful projects.
 3. 🥉 I have multiple WordPress plugins serving thousands of websites on WordPress.org.
 
-📫 Let's connect and collaborate! Feel free to email or connect with me on [LinkedIn](LinkedIn profile URL). I'm always excited to discuss new projects, exchange ideas, or engage in the wonderful world of code.
--->
+📫 Let's connect and collaborate! Feel free to email or connect with me on [LinkedIn](https://www.linkedin.com/in/usman-ali-qureshi-3664717a/). I'm always excited to discuss new projects, exchange ideas, or engage in the beautiful world of code.
+
 🌟 Stay curious, keep coding, and let's make the world a better place together! 🚀
