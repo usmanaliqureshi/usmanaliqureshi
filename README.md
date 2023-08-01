@@ -1,4 +1,4 @@
-## 👋 Welcome to my GitHub Profile!
+## 👋 Hi! Thanks for visiting my GitHub Profile
 
 👨‍💻 Developer Extraordinaire | ✨ Passionate Problem Solver
 
