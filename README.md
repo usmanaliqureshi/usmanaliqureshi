@@ -10,7 +10,9 @@
 - Frontend: HTML, CSS, TailWind CSS, Bootstrap, JavaScript, React, Next.JS, GoHugo
 - Backend: PHP, Node.JS, Express
 - Databases: MySQL, MongoDB, SQLite
-- Tools: Git, SVN, VS Code, PHPStorm, Figma, Photoshop, Canva
+- Design: Photoshop, Figma, Canva
+- IDEs: VS Code, PHPStorm
+- Version Control: Git, Bitbucket, SVN
 
 💪 My strengths are crafting intuitive user interfaces, designing robust backend systems, and optimizing code performance. I thrive in collaborative environments where I can bring ideas to life and work towards shared goals.
 
