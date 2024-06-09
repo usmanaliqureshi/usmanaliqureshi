@@ -2,8 +2,6 @@
 
 👨‍💻 Developer Extraordinaire | ✨ Passionate Problem Solver
 
-🔭 Currently exploring the realms of software development, seeking innovative solutions to real-world challenges. My codebase is a testament to my commitment to quality, efficiency, and clean architecture.
-
 💡 Constantly embracing new technologies and frameworks, I'm on a perpetual journey of growth and learning. From frontend to backend, I'm well-versed in various stacks and love experimenting with emerging paradigms.
 
 ⚡️ **Skillset:**
