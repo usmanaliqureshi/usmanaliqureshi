@@ -23,4 +23,4 @@
 
 📫 Let's connect and collaborate! Feel free to email or connect with me on [LinkedIn](https://www.linkedin.com/in/usman-ali-qureshi-3664717a/). I'm always excited to discuss new projects, exchange ideas, or engage in the beautiful world of code.
 
-🌟 Stay curious, keep coding, and let's make the world a better place together! 🚀
+🌟 Stay curious, keep coding, and make the world a better place together! 🚀
