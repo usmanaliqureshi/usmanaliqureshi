@@ -18,8 +18,8 @@
 
 🏆 **Achievements:**
 1. 🥇 Developed several high-performance web applications and projects.
-2. 🥈 Recognized as Top-Rated on Upwork with over 1900+ hours of work in several international successful projects.
-3. 🥉 I have multiple WordPress plugins serving thousands of websites on WordPress.org.
+2. 🥈 Recognized as Top-Rated on Upwork with over 2,000+ hours of work in several international successful projects.
+3. 🥉 I have multiple WordPress plugins serving hundreds of websites on WordPress.org.
 
 📫 Let's connect and collaborate! Feel free to email or connect with me on [LinkedIn](https://www.linkedin.com/in/usman-ali-qureshi-3664717a/). I'm always excited to discuss new projects, exchange ideas, or engage in the beautiful world of code.
 
