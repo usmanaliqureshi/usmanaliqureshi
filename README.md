@@ -5,7 +5,7 @@
 💡 Constantly embracing new technologies and frameworks, I'm on a perpetual journey of growth and learning. From frontend to backend, I'm well-versed in various stacks and love experimenting with emerging paradigms.
 
 ⚡️ **Skillset:**
-- Frontend: HTML, CSS, TailWind CSS, Bootstrap, JavaScript, React, Next.JS, GoHugo
+- Frontend: HTML, CSS, TailWind CSS, Bootstrap, JavaScript, ReactJS, Next.JS, GoHugo
 - Backend: PHP, Node.JS, Express
 - Databases: MySQL, MongoDB, SQLite
 - Design: Photoshop, Figma, Canva
