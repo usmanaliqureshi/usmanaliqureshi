@@ -1,7 +1,6 @@
 ## 👋 Hi there! Welcome to my GitHub Profile
 
-**Usman Ali Qureshi**  
-🎯 WordPress & PHP Specialist | React Capable | Full Stack Developer
+**Usman Ali Qureshi**  - 🎯 WordPress & PHP Specialist | React Capable | Full Stack Developer
 
 ---
 
